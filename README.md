@@ -9,5 +9,5 @@
 - Aula 3 - Gerência de dependencia
 - Aula 4 - Git/GitHub
 - Aula 5 - ReadMe 
-@@ Aula 6 - API @@
+- Aula 6 - API 
 ```
