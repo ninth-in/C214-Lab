@@ -9,5 +9,11 @@
 - Aula 3 - Gerência de dependencia
 - Aula 4 - Git/GitHub
 - Aula 5 - ReadMe 
-@@ Aula 6 - API @@
+- Aula 6 - API 
+- Aula 7 - 
+- Aula 8 -
+- Aula 9 -
+- Aula 10 -
+- Aula 11 -
+- Aula 12 e 13 - REACT 
 ```
